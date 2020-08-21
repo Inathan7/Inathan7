@@ -11,7 +11,7 @@ Developing web with React and mobile with React Native, building APIs with Node.
 ### Contact Me📬
 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
-How to reach me: [![Gmail Badge](https://img.shields.io/badge/-inathanmoreira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inathan.moreira.10@gmail.com)](mailto:inathan.moreira.10@gmail.com)
+How to reach me: [![Gmail Badge](https://img.shields.io/badge/-inathan.moreira.10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inathan.moreira.10@gmail.com)](mailto:inathan.moreira.10@gmail.com)
 
 ###  Meet Me At :mag:
 [![Linkedin Badge](https://img.shields.io/badge/-InathanMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inathan-moreira-21901a1ab/)](https://www.linkedin.com/in/inathan-moreira-21901a1ab/)
