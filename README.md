@@ -9,7 +9,7 @@ I always try to be evolving and breaking brands to solve problems with programmi
 Developing web with React and mobile with React Native, building APIs with Node.js
 
 ### Contact Me📬
-How to reach me: https://img.shields.io/badge/Gmail-inathan.moreira.10%40gmail.com-red
+How to reach me: [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
 ###  Meet Me At :mag:
 [![Linkedin Badge](https://img.shields.io/badge/-InathanMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inathan-moreira-21901a1ab/)](https://www.linkedin.com/in/inathan-moreira-21901a1ab/)
