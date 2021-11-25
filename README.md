@@ -6,7 +6,7 @@ I'm a web developer, with a hint of FullStack in my veins
 I always try to be evolving and breaking brands to solve problems with programming
 
 ### I'm Currently Learning 💻:muscle:
-Developing web with React and mobile with React Native, building APIs with Node.js
+Developing web with React and mobile with React Native, building APIs with Spring Boot
 
 ### Contact Me📬
 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-inathan.moreira.10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inathan.moreira.10@gmail.com)](mailto:inathan.moreira.10@gmail.com)
